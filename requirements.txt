@@ -1,0 +1,32 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+scipy==1.14.1
+joblib==1.4.2
+
+# Network packet capture & analysis
+scapy==2.5.0
+pyshark==0.6
+
+# Machine Learning / Deep Learning (optional - if ML based IDS)
+tensorflow==2.17.0
+torch==2.4.1
+torchvision==0.19.1
+
+# Data preprocessing & feature engineering
+imbalanced-learn==0.12.3
+
+# Logging & colored logs
+coloredlogs==15.0.1
+
+# Database operations
+sqlalchemy==2.0.35
+pymysql==1.1.1
+
+# Web/API interface
+flask==3.0.3
+flask-restful==0.3.10
+requests==2.32.3
+
